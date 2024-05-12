@@ -13,5 +13,5 @@ This contains all the files of implementations of different algorithms and data 
 10. Hashing with Chaining (and table growth and shrinking)
 11. Karatsuba algorithm
 12. Open addressing problem
-13. Peakfinder recusrive, 1D and 2D
+13. Peakfinder recursive, 1D and 2D
 14. Rabin Karp algorithm
