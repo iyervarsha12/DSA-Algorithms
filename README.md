@@ -1,5 +1,5 @@
 # DSA_Algorithms
-This contains all the files of implementations of different algorithms and data structures done as a part of the 'Introduction to Algorithms' course. (DOne in C and C++)
+This contains all the files of implementations of different algorithms and data structures done as a part of the 'Introduction to Algorithms' course. (Done in C and C++)
 
 1. AVL trees
 2. Bellman-ford algorithm
